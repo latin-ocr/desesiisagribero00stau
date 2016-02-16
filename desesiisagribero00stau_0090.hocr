@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desesiisagribero00stau_0090.png"; bbox 0 0 2243 2893; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1700 22 2089 45">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1700 22 2089 45">
+     <span class='ocr_line' id='line_1_1' title="bbox 1700 22 2089 45; baseline 0.021 -8"><span class='ocrx_word' id='word_1_1' title='bbox 1700 22 1841 39; x_wconf 59' lang='lat' dir='ltr'>SMHMSONJAN</span> <span class='ocrx_word' id='word_1_2' title='bbox 1851 25 1975 42; x_wconf 63' lang='lat' dir='ltr'>mswmwom</span> <span class='ocrx_word' id='word_1_3' title='bbox 1986 28 2089 45; x_wconf 60' lang='lat' dir='ltr'>mammes</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1658 45 2127 127">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1658 45 2127 127">
+     <span class='ocr_line' id='line_1_2' title="bbox 1658 45 2127 127; baseline 0.015 -10"><span class='ocrx_word' id='word_1_4' title='bbox 1658 45 1663 117; x_wconf 90' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 1684 46 1689 118; x_wconf 90' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 1763 47 1768 119; x_wconf 93' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_7' title='bbox 1792 65 1793 86; x_wconf 35' lang='lat' dir='ltr'>ff</span> <span class='ocrx_word' id='word_1_8' title='bbox 1822 51 1845 119; x_wconf 59' lang='lat'>¹³5</span> <span class='ocrx_word' id='word_1_9' title='bbox 1864 50 1909 122; x_wconf 60' lang='lat' dir='ltr'>W}</span> <span class='ocrx_word' id='word_1_10' title='bbox 1932 51 1999 124; x_wconf 48' lang='lat' dir='ltr'>W&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 2026 53 2127 127; x_wconf 50' lang='lat' dir='ltr'>ww&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1654 124 2129 217">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1654 124 2129 217">
+     <span class='ocr_line' id='line_1_3' title="bbox 1654 124 2129 164; baseline 0.021 -10"><span class='ocrx_word' id='word_1_12' title='bbox 1654 124 1673 155; x_wconf 75' lang='lat'>3</span> <span class='ocrx_word' id='word_1_13' title='bbox 1712 125 1816 158; x_wconf 56' lang='lat' dir='ltr'>qma&amp;</span> <span class='ocrx_word' id='word_1_14' title='bbox 1854 128 2071 163; x_wconf 69' lang='lat' dir='ltr'>UDESLEEU</span> <span class='ocrx_word' id='word_1_15' title='bbox 2109 133 2129 164; x_wconf 62' lang='lat' dir='ltr'>q</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1753 164 2025 217; baseline 0.018 -9"><span class='ocrx_word' id='word_1_16' title='bbox 1753 164 2025 217; x_wconf 54' lang='lat' dir='ltr'>02”;225‚2‘322†f³3e532³1³.3¹{„⁷s?5</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1582 4 2190 244">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1582 4 2190 244">
+     <span class='ocr_line' id='line_1_5' title="bbox 1582 4 2190 244; baseline 0 2649"><span class='ocrx_word' id='word_1_17' title='bbox 1582 4 2190 244; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
